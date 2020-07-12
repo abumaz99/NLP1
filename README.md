@@ -1,2 +1,2 @@
-# NLP1
+# Sentiment Analysis
 NLP Project - Sentiment Analysis
